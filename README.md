@@ -1,5 +1,4 @@
-# BookPublisherDistributionDB-Analytics-Platform
-
+# BookPublisherDistributionDB Analytics Platform
 
 I developed the **BookPublisherDistributionDB Analytics Platform** to streamline the data ingestion, transformation, and analytics workflows for a book distribution company. This project leverages Azure services like Azure Data Factory, Azure Data Lake Storage, and Azure Synapse Analytics to create an automated, end-to-end data solution.
 
@@ -120,4 +119,4 @@ This project demonstrates how Azure Data Factory, Data Lake, and Synapse Analyti
 
 --- 
 
-
+Update the paths if screenshots are moved to GitHub's image hosting for easy access in the repository.
